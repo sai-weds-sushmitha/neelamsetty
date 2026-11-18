@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Sai and Sushmitha//Wedding//EN
+PRODID:-//Sushmitha and Sai//Wedding//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
@@ -8,7 +8,7 @@ UID:wedding-2026@sai-sushmitha
 DTSTAMP:20261109T000000Z
 DTSTART:20261213T145100Z
 DTEND:20261213T180000Z
-SUMMARY:Sai & Sushmitha · Wedding (Muhurtham 8:21 PM)
+SUMMARY:Sushmitha & Sai · Wedding (Muhurtham 8:21 PM)
 LOCATION:Chenna's Convention\, Visakhapatnam
 DESCRIPTION:With love\, the Neelamsetty family
 END:VEVENT

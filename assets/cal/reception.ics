@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Sai and Sushmitha//Wedding//EN
+PRODID:-//Sushmitha and Sai//Wedding//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
@@ -8,7 +8,7 @@ UID:reception-2026@sai-sushmitha
 DTSTAMP:20261109T000000Z
 DTSTART:20261216T053000Z
 DTEND:20261216T093000Z
-SUMMARY:Sai & Sushmitha · Reception
+SUMMARY:Sushmitha & Sai · Reception
 LOCATION:Kodam Convention\, Warangal
 DESCRIPTION:With love\, the Neelamsetty family
 END:VEVENT
